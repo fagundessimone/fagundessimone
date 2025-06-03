@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fagundessimone
 - 👀 I’m interested in to learn
-- 🌱 I’m currently learning Python and Java Script
+- 🌱 I’m currently learning Java and React
 - ⚡ Fun fact: I like to workout
 
 <!---
