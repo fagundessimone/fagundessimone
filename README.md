@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fagundessimone
-- 👀 I’m interested in to learn
-- 🌱 I’m currently learning Java and React
+- 🌱 Java and React developer
 - ⚡ Fun fact: I like to workout
 
 <!---
