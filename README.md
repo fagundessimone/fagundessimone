@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fagundessimone
-- 🌱 Java and React developer
+- 🌱 Node.Js and React developer
 - ⚡ Fun fact: I like to workout
 
 <!---
